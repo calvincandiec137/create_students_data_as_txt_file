@@ -1,0 +1,20 @@
+Enter the student's Roll No: 31
+Enter the student's name: faiz
+Enter PHYSICS marks: 15
+Enter CHEMISTRY marks: 14
+Enter MATHS marks: 20
+Enter ENGINEERING DRAWING marks: 18
+Enter ENGLISH marks: 19
+
+
+
+Enter the student's Roll No: 21
+Enter the student's name: maddav
+Enter PHYSICS marks: 13
+Enter CHEMISTRY marks: 11
+Enter MATHS marks: 20
+Enter ENGINEERING DRAWING marks: 20
+Enter ENGLISH marks: 20
+
+
+
